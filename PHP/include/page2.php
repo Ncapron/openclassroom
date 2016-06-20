@@ -24,7 +24,7 @@
     
     <!-- Le pied de page -->
     
-    <?php include("pieddepage.php")
+    <?php include("pieddepage.php"); ?>
     
     </body>
 </html>

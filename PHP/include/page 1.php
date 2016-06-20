@@ -15,6 +15,7 @@
     
     <div id="corps">
         <h1>Mon super site</h1>
+    <?php echo plop; ?>
         
         <p>
             Bienvenue sur mon super site !<br />
@@ -22,7 +23,7 @@
         </p>
     </div>
     
-    <?php include("pieddepage.php")
+    <?php include("pieddepage.php") ?>
     
     </body>
 </html>
